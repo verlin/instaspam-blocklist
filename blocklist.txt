@@ -18,4 +18,5 @@
 @the.arts.world._, 
 @the_.art_.magazine, 
 @the_art_.gallery._, 
-@visiion.art
+@visiion.art, 
+@amazing_art_gallery_, 
