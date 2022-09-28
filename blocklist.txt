@@ -20,3 +20,4 @@
 @the_art_.gallery._, 
 @visiion.art, 
 @amazing_art_gallery_, 
+@ArtManiaComunity, 
