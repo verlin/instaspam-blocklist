@@ -35,4 +35,4 @@
 @WORLD.ARTIST_HUB,
 @the._creative.art,
 @paradise_of.arts,
-
+@opensea.network,
