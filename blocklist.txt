@@ -1,5 +1,5 @@
 @Academy_of.art, 
-@academy._of_art 
+@academy._of_art, 
 @DAILYDOSE_.ARTS, 
 @GALLERY.OF._ART, 
 @The._art.factory, 
@@ -42,4 +42,4 @@
 @nft.world____,
 @fam_of_art,
 @theprathamofficial,
-@nft__.world
+@nft__.world,
