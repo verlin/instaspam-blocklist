@@ -37,3 +37,8 @@
 @opensea.network,
 @_nft__marketplace_,
 @_opensea_nftz,
+@opensea_community,
+@nft.world____,
+@fam_of_art,
+@theprathamofficial,
+@nft__.world
