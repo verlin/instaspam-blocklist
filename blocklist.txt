@@ -29,3 +29,5 @@
 @_opensea_nftz,
 @the__adventure_life, 
 @the._world._art,
+@art_colle.ction,
+@amazon__arts_,
