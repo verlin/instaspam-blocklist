@@ -26,7 +26,6 @@
 @blackempire._,
 @heaven_.of_art,
 @nft__.world,
-@_opensea_nftz,
 @the__adventure_life, 
 @the._world._art,
 @art_colle.ction,
@@ -36,3 +35,5 @@
 @the._creative.art,
 @paradise_of.arts,
 @opensea.network,
+@_nft__marketplace_,
+@_opensea_nftz,
