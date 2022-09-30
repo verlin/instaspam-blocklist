@@ -28,3 +28,4 @@
 @nft__.world,
 @_opensea_nftz,
 @the__adventure_life, 
+@the._world._art,
