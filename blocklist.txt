@@ -32,3 +32,4 @@
 @art_colle.ction,
 @amazon__arts_,
 @unique._models, 
+@WORLD.ARTIST_HUB,
