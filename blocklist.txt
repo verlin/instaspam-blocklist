@@ -1,4 +1,5 @@
 @Academy_of.art, 
+@academy._of_art 
 @DAILYDOSE_.ARTS, 
 @GALLERY.OF._ART, 
 @The._art.factory, 
