@@ -33,4 +33,6 @@
 @amazon__arts_,
 @unique._models, 
 @WORLD.ARTIST_HUB,
-@the._creative.art
+@the._creative.art,
+@paradise_of.arts,
+
