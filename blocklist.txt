@@ -45,3 +45,5 @@
 @nft__.world,
 @tattoos_modelz,
 @community_of.art,
+@the._artist_world,
+@THE.ART_.LORD,
