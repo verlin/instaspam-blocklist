@@ -33,6 +33,7 @@
 @amazon__arts_,
 @unique._models, 
 @WORLD.ARTIST_HUB,
+@heaven._of_art
 @the._creative.art,
 @paradise_of.arts,
 @opensea.network,
