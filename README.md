@@ -25,4 +25,4 @@ This list is curated to contain account names that are known to be promoted usin
 I do, but I'm not promoting it here. If you would like what I post, chances are you already follow the hashtags I post on. Maybe you already follow me!
 
 ## I love it, can I contribute to this list?
-Sure - fork the repo and open a pull request. Please do NOT open issues to submit requests to add a new keyword to the list.
+Sure - the easiest way is to open an issue to request the addition of a new keyword to the list. Please include a link to a spam comment made by the user you are hoping to have added. We'll investigate and respond. You can also open a pull request, but we do request that you comment on the pull request with a link to spam comments made by the people you've added.
